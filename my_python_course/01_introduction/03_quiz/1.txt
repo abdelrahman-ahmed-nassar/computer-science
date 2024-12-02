@@ -1,0 +1,5 @@
+What is pseudo code?
+a) The actual code written in a programming language
+b) A way to describe an algorithm using plain language and simple instructions
+c) A type of programming error
+d) A physical component of a computer

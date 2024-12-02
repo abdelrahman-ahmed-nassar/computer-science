@@ -1,0 +1,2 @@
+True or False:
+Algorithms are only used in computer programming.

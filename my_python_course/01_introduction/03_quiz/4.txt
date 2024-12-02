@@ -1,0 +1,6 @@
+Multiple Choice:
+Which of the following best describes how a computer works at different levels of abstraction?
+a) Only through the use of software
+b) By using transistors, logical gates, and various computer parts
+c) By storing pictures and videos
+d) By using only the CPU
